@@ -1,6 +1,6 @@
 Toontown Online Resources
 =============
-This repository contains the asset files extracted from the phase files of Disney's Toontown Online. Specifically, they were extracted from the phase files of the `sv1.0.47.38` release of Disney's Toontown Online.
+This repository contains the asset files extracted from the phase files of Disney's Toontown Online. Specifically, they were extracted from the phase files of the `sv1.4.40.32` release of Disney's Toontown Online.
 
 These files are provided as-is with absolutely no warranty, or licensing of any kind. It should be noted that the Toontown Online assets are still the property of The Walt Disney Company and as such should only be used for reference purposes.
 
